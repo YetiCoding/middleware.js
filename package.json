@@ -1,0 +1,24 @@
+{
+  "name": "middleware",
+  "version": "1.0.0",
+  "description": "A general middleware tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YetiCoding/middleware.js.git"
+  },
+  "keywords": [
+    "middleware",
+    "async",
+    "typescript"
+  ],
+  "author": "YetiCoding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YetiCoding/middleware.js/issues"
+  },
+  "homepage": "https://github.com/YetiCoding/middleware.js#readme"
+}
